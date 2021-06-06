@@ -55,8 +55,7 @@ body{
    color: hsl(31, 77%, 52%);
    
 }
-
-  #orangeB:hover{
+ #orangeB button:hover{
   
  background-color: hsl(31, 77%, 52%);
  color:hsla(0, 0%, 100%, 0.75) ;
@@ -101,3 +100,12 @@ body{
     border-bottom-right-radius: 20px;
 }
 
+
+
+@media screen and (min-width:1440px) {
+    #cardContainer{
+        width: 800px; 
+        flex-direction: row;
+    }
+    
+}
