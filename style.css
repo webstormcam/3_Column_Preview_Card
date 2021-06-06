@@ -62,3 +62,19 @@ body{
  color:hsla(0, 0%, 100%, 0.75) ;
 }
 
+
+#dCyan{
+    background-color: hsl(31, 77%, 52%);
+    padding-top: 30px;
+    padding-left: 40px
+}
+
+#vDCyan{
+    background-color: hsl(31, 77%, 52%);
+    padding-top: 30px;
+    padding-left: 40px;
+    margin-bottom: 80px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
