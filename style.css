@@ -121,5 +121,16 @@ body{
     .card{
         width: 400px;
     }
+
+    #orange{
+        margin-top: 0px;
+        border-top-right-radius: 0px;
+    }
+
+    #vDCyan{
+        margin-bottom: 0px;
+        border-bottom-left-radius: 0px;
+        
+    }
     
 }
