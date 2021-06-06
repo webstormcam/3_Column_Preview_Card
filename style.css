@@ -6,7 +6,7 @@ body{
 
 #cardContainer{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     width: 375px;
     margin-left: auto;
     margin-right: auto;
@@ -15,7 +15,6 @@ body{
 .card{
     display: flex;
     flex-direction: column;
-    width: 300px;
    
 }
 
@@ -26,5 +25,18 @@ body{
     margin-top: 80px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+}
+
+#words h1{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Big Shoulders Display', cursive;
+}
+
+#words p{
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 15px;
+    line-height: 20px;
+  
 }
 
