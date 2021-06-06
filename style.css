@@ -1,4 +1,30 @@
 body{
     margin: 0;
     box-sizing: border-box;
+    background-color: hsl(0, 0%, 95%);
 }
+
+#cardContainer{
+    display: flex;
+    flex-direction: row;
+    width: 375px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+   
+}
+
+#orange{
+    background-color: hsl(31, 77%, 52%);
+    padding-top: 30px;
+    padding-left: 40px;
+    margin-top: 80px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
