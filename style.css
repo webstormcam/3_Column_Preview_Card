@@ -36,7 +36,23 @@ body{
     font-family: 'Lexend Deca', sans-serif;
     color: hsla(0, 0%, 100%, 0.75);
     font-size: 15px;
-    line-height: 20px;
+    line-height: 30px;
+    padding-right: 40px;
   
+}
+
+#button{
+    padding-bottom: 50px;
+}
+
+#button button{
+    font-size: 15px;
+   padding: 15px;
+   padding-left: 20px;
+   padding-right: 20px;
+   border-radius: 20px;
+   border: none;
+   color: hsl(31, 77%, 52%);
+   
 }
 
