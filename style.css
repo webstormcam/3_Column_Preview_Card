@@ -114,8 +114,12 @@ body{
 
 @media screen and (min-width:1440px) {
     #cardContainer{
-        width: 800px; 
+        width: 1200px; 
         flex-direction: row;
+    }
+
+    .card{
+        width: 400px;
     }
     
 }
