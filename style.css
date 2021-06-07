@@ -27,12 +27,12 @@ body{
     border-top-right-radius: 20px;
 }
 
-#words h1{
+.words h1{
     color: hsla(0, 0%, 100%, 0.75);
     font-family: 'Big Shoulders Display', cursive;
 }
 
-#words p{
+.words p{
     font-family: 'Lexend Deca', sans-serif;
     color: hsla(0, 0%, 100%, 0.75);
     font-size: 15px;
@@ -41,11 +41,11 @@ body{
   
 }
 
-#button{
+.button{
     padding-bottom: 50px;
 }
 
-#button #orangeB{
+.button #orangeB{
     font-size: 15px;
    padding: 15px;
    padding-left: 20px;
@@ -55,23 +55,23 @@ body{
    color: hsl(31, 77%, 52%);
    
 }
- #button #orangeB:hover{
+ .button #orangeB:hover{
   
  background-color: hsl(31, 77%, 52%);
  color:hsla(0, 0%, 100%, 0.75) ;
 }
 
-#button #cyanB:hover{
+.button #cyanB:hover{
     color:hsla(0, 0%, 100%, 0.75) ;
     background-color:hsl(184, 100%, 22%) ;
 }
 
-#button #vCyanB:hover{
+.button #vCyanB:hover{
     color:hsla(0, 0%, 100%, 0.75) ;
     background-color: hsl(179, 100%, 13%);
 }
 
-#button #cyanB{
+.button #cyanB{
     font-size: 15px;
     padding: 15px;
     padding-left: 20px;
@@ -81,7 +81,7 @@ body{
     color: hsl(184, 100%, 22%);
 }
 
-#button #vCyanB{
+.button #vCyanB{
     font-size: 15px;
     padding: 15px;
     padding-left: 20px;
@@ -137,7 +137,7 @@ body{
         
     }
 
-    #words p{
+    .words p{
         margin-bottom: 100px;
     }
     
