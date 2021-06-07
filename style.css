@@ -116,10 +116,11 @@ body{
     #cardContainer{
         width: 1200px; 
         flex-direction: row;
+        
     }
 
     .card{
-        width: 400px;
+        width: 300px;
     }
 
     #orange{
@@ -130,7 +131,12 @@ body{
     #vDCyan{
         margin-bottom: 0px;
         border-bottom-left-radius: 0px;
+        border-top-right-radius: 20px;
         
+    }
+
+    #words p{
+        margin-bottom: 100px;
     }
     
 }
