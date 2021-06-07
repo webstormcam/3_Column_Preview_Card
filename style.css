@@ -116,6 +116,7 @@ body{
     #cardContainer{
         width: 900px; 
         flex-direction: row;
+      margin-top: 160px;
         
     }
 
